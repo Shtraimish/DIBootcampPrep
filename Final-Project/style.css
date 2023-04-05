@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://wallpaper.dog/large/964593.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    scroll-behavior: smooth;
+}
+.common-info {
+   align-items: center;
+   width: 70%;
+   padding-left: 15%;  
+   color: white;
+   
+}
+h2{
+    text-align: center;
+    color: white;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  h3{
+    text-align: center;
+    color: white;
+  }
+  nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 15%;
+    background-color: #fff;
+   
+  }
+  footer{
+    text-align: center;
+  }
